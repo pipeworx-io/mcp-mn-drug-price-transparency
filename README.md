@@ -4,7 +4,7 @@ Minnesota manufacturer drug price-growth and new-drug-launch disclosures —
 the Minnesota half of the fleet #3245 state WAC-transparency survey. See
 `mcps/ca-drug-price-transparency/README.md` for the full per-state survey.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1847+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1877+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 ## Tools
 
@@ -113,7 +113,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1847+ data sources. The
+Both URLs reach the same gateway and the same 1877+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
